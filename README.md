@@ -1,3 +1,3 @@
 Initial Setup
 
-for Develop 
+for Gurjap
